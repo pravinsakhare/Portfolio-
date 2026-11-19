@@ -14,3 +14,5 @@ AWS · Kubernetes · Docker · GitHub Actions · Jenkins · Grafana · Prometheu
 
 ## Contact
 [LinkedIn](https://linkedin.com/in/pravinsakhare) · [GitHub](https://github.com/pravinsakhare)
+
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/62186ed5-8408-4c74-b2c1-77cffd5c2207" />
